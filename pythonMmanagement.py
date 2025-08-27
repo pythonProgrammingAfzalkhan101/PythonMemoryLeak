@@ -1,6 +1,7 @@
 import sys 
 
 a = [1 ,2, 3,4]
+print("My Dfineded my list is",a)
 b = a 
 c = a
 
